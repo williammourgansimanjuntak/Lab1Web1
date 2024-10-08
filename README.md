@@ -1,4 +1,4 @@
-# Lab1Web1
+# Lab1Web
 ## Belajar Tag Dasar HTML
 
 ### Membuat Paragraf 
